@@ -17,7 +17,7 @@ La barbería es una de las áreas en las que desarrollo mi creatividad y mis hab
 
 💻 Tecnología y proyectos
 
-Me interesa aprender programación y desarrollo web mediante proyectos que me permitan poner en práctica mis conocimientos. Uno de ellos es StockFlow, una aplicación web para gestionar inventarios.
+Me interesa aprender programación y desarrollo web mediante proyectos que me permitan poner en práctica mis conocimientos.
 
 🎯 Mis metas
 
