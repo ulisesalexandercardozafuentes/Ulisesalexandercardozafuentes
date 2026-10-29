@@ -23,4 +23,6 @@ Me interesa aprender programación y desarrollo web mediante proyectos que me pe
 
 Seguir creciendo como persona, mejorar en la barbería, aprender más sobre tecnología y desarrollar mis habilidades para construir un buen futuro.
 
+Vivo en mi lindo pais El salvador, San salvador, Ciudad Delgado. 
+
 Gracias por visitar mi perfil. ¡Siempre hay algo nuevo que aprender! 🚀
